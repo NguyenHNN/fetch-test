@@ -1,0 +1,37 @@
+{
+  "players": [
+    {
+      "id": "1",
+      "name": "Lionel Messi",
+      "nation": "Argentina",
+      "club": "Inter Miami",
+      "cost": 50000000,
+      "clip": "https://youtu.be/messi-video",
+      "description": "Legendary football player, 7 Ballon d'Or winner.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Lionel-Messi-2022.jpg",
+      "top": true
+    },
+    {
+      "id": "2",
+      "name": "Cristiano Ronaldo",
+      "nation": "Portugal",
+      "club": "Al Nassr",
+      "cost": 45000000,
+      "clip": "https://youtu.be/ronaldo-video",
+      "description": "Portuguese superstar, 5 Ballon d'Or winner.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg",
+      "top": true
+    },
+    {
+      "id": "635b",
+      "name": "Huỳnh Nguyên",
+      "nation": "hcm",
+      "club": "fgwerf",
+      "cost": "123333333333333",
+      "clip": "ẻwerwerewrerere",
+      "description": "rẻwerwewefwerfwere",
+      "img": "fsdafewfew",
+      "top": false
+    }
+  ]
+}
